@@ -80,7 +80,7 @@ const HeroSection = () => {
         {/* Social Icons */}
         <div className="flex justify-center gap-6">
           <a
-            href="https://www.linkedin.com/in/abdulrofiu-ashrof-6a9b81358/"
+            href="https://www.linkedin.com/in/oguchukwu-gospel-b40319205?"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-cyan-400 transition-colors duration-300 transform hover:scale-110"
@@ -88,7 +88,7 @@ const HeroSection = () => {
             <FaLinkedin size={28} />
           </a>
           <a
-            href="https://github.com/CyberAshluxe/"
+            href="https://github.com/gosplizkeyz"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-cyan-400 transition-colors duration-300 transform hover:scale-110"
